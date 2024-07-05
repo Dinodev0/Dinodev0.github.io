@@ -46,7 +46,7 @@ nav a:hover {
 
 .commands {
     width: 134px;
-    height: 38px;
+    height: 33px;
     margin-left: 40px;
     border-radius: 5px;
     border-style: none;
@@ -54,7 +54,7 @@ nav a:hover {
     font-size: 14px;
     background-color:  rgb(221, 221, 221);
     color: rgb(0, 0, 0);
-    font-weight: 600;
+    font-weight: 550;
     cursor: pointer;
     position: sticky;
 }
@@ -66,11 +66,11 @@ nav a:hover {
 
 .dcadd {
     width: 140px;
-    height: 38px;
+    height: 33px;
     margin-left: 15px;
     border-radius: 5px;
     border-style: solid;
-    border-color: #7c7c7c;
+    border-color: #444444;
     border-width: 0.3px;
     font-size: 14px;
     background-color: black;
